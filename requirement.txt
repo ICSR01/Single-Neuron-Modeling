@@ -1,0 +1,16 @@
+# ==========================================
+# Single Neuron Modeling - Dependencies
+# ==========================================
+
+# Core scientific computing library (for arrays and Euler integration)
+numpy>=1.21.0
+
+# Data visualization library (for plotting membrane potentials and spike rasters)
+matplotlib>=3.4.0
+
+# ==========================================
+# Optional Dependencies (For Notebooks)
+# ==========================================
+# Include these if you intend to run or edit the original .ipynb file
+jupyter>=1.0.0
+notebook>=6.4.0
