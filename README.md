@@ -65,7 +65,7 @@ Theoretical models of neurons often fail to capture biological complexity. This 
 * **Network Dynamics:** This repository focuses strictly on isolated single-cell dynamics and does not currently simulate synaptic communication or emergent network behaviors.
 
 ### Credits & Author
-* **Independent Developer / Author:** Celestine (Ilo Celestine Somadina) — *Early career computational neuroscientist | Team Uropi Pod*
+* **Independent Developer / Author:** Ilo Celestine Somadina — *Early career computational neuroscientist | Team Uropi Pod*
 * **Theoretical Instruction:** Theoretical concepts were explained by AbdelQader AlKilany at the ACNEI Computational Neuroscience Introductory School.
 * **Datasets:** Biological patch-clamp recordings provided via the TReND-CaMinA curriculum.
 
